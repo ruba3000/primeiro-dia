@@ -1,0 +1,12 @@
+1. pasta - botão direito do mouse - abrir no terminal
+2. git init
+3. ls = lista arquivos da pasta
+4. ls -all = comandos disponíveis????
+5. git status = informa arquivos monitorados e não monitorados
+6. git add <nome> = digita 1° letra e tab para preenchimento automático
+7. git add . = adiciona todos os arquivos do repositório no git
+8. git remote add origin <site> ????
+9. git commit -m "nome_commit" = grava as mudanças do arquivo ????
+10. git config --global user.name = login e senha do git
+11. git push -u origin master
+12. 
